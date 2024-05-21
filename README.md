@@ -21,7 +21,7 @@ Usually in my free time, I take the opportunity to do some CTFs or take some cou
 - MacOS 
 - Linux 🐧
 
-####FUCK U WINDOWS!!!!!!
+#### FUCK U WINDOWS!!!!!!
 ![awdawdada](https://github.com/naberius616/naberius616/assets/84759195/ec88df63-3d47-4a16-8f13-1a1582c7422d)
 
 
