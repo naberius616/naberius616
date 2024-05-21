@@ -16,5 +16,6 @@ Usually in my free time, I take the opportunity to do some CTFs or take some cou
 - Bash
 - C
 - Software Engineer
+  
 
 ![a](https://github.com/naberius616/naberius616/assets/84759195/8f609399-da9f-455e-8ec3-3dd696f578f1)
