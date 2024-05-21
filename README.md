@@ -1,6 +1,6 @@
 ## Hey Guys! I'm Naberius!
 
-An Ethical Hacker working with Hacking Force, Cappuccino Team and 0xCTRL community.
+An Ethical Hacker working with Hacking Force, Cappuccino Team and 0xCTRL hacking community.
 
 Always studying and learning from other people,
 I like information security, programming, computer networking, etc...
