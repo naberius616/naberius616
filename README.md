@@ -26,8 +26,10 @@ Usually in my free time, I take the opportunity to do some CTFs or take some cou
 
 
 
+<p align="center">
+  <img src="[demo.gif](https://github.com/naberius616/naberius616/assets/84759195/e295c429-f00e-490f-bc8d-968d383502fb)" alt="animated" />
+</p>
 
-  ![awdfesggfdsg](https://github.com/naberius616/naberius616/assets/84759195/e295c429-f00e-490f-bc8d-968d383502fb)
 
 
 
